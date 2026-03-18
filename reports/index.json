@@ -1,10 +1,44 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Shadow",
+    "paletteId": "Sapphire",
     "kineticFont": "default"
   },
   "entries": [
+    {
+      "id": "20260317-203117-odym",
+      "title": "Casandra Hunmer, Lumpia Humner",
+      "commanders": [
+        "Casandra Hunmer",
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-03-18T00:31:17.000Z",
+      "dateEnd": "2026-03-18T03:21:55.000Z",
+      "dateLabel": "3/17/2026, 8:31:17 PM - 3/17/2026, 11:21:55 PM",
+      "url": "https://AceRuleXero.github.io/RXG/?report=20260317-203117-odym",
+      "summary": {
+        "borderlandsPct": 0.4838709677419355,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 54
+      }
+    },
     {
       "id": "20260316-193920-y3wg",
       "title": "Lira Humner",
