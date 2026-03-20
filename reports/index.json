@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260319-195858-bp8k",
+      "title": "Klapps Of Legend, Lira Humner",
+      "commanders": [
+        "Klapps Of Legend",
+        "Lira Humner"
+      ],
+      "dateStart": "2026-03-19T23:58:58.000Z",
+      "dateEnd": "2026-03-20T02:01:33.000Z",
+      "dateLabel": "3/19/2026, 7:58:58 PM - 3/19/2026, 10:01:33 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260319-195858-bp8k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260318-204245-g5g3",
       "title": "Pretty Humner",
       "commanders": [
