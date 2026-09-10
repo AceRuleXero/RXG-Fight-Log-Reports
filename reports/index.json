@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-200858-dwmw",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-10T00:08:58.000Z",
+      "dateEnd": "2026-09-10T00:47:02.035Z",
+      "dateLabel": "9/9/2026, 8:08:58 PM - 9/9/2026, 8:47:02 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20260909-200858-dwmw",
+      "summary": {
+        "borderlandsPct": 0.06896551724137931,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260908-220143-4agc",
       "title": "Lumpia Humner",
       "commanders": [
