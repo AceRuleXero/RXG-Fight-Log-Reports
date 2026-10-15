@@ -5,9 +5,43 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261014-214605-mru7",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-15T01:46:05.000Z",
+      "dateEnd": "2026-10-15T02:53:13.624Z",
+      "dateLabel": "10/14/2026, 9:46:05 PM - 10/14/2026, 10:53:13 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20261014-214605-mru7",
+      "publishedBy": "AceRuleXero",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261011-215148-cwms",
       "title": "Lumpia Humner",
