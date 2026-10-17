@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261016-213346-2uk8",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-17T01:33:46.000Z",
+      "dateEnd": "2026-10-17T02:32:42.453Z",
+      "dateLabel": "10/16/2026, 9:33:46 PM - 10/16/2026, 10:32:42 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20261016-213346-2uk8",
+      "publishedBy": "AceRuleXero",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261015-211146-zfbn",
       "title": "Lumpia Humner",
       "commanders": [
