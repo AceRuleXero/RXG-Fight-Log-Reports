@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261023-221141-1dqg",
+      "title": "Davidsitos, Lumpia Humner",
+      "commanders": [
+        "Davidsitos",
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-24T02:11:41.000Z",
+      "dateEnd": "2026-10-24T03:31:25.092Z",
+      "dateLabel": "10/23/2026, 10:11:41 PM - 10/23/2026, 11:31:25 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20261023-221141-1dqg",
+      "publishedBy": "AceRuleXero",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261022-224806-2r98",
       "title": "Lumpia Humner",
       "commanders": [
