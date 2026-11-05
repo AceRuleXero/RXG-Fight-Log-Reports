@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261104-201945-d8lk",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-05T01:19:45.000Z",
+      "dateEnd": "2026-11-05T02:38:11.110Z",
+      "dateLabel": "11/4/2026, 8:19:45 PM - 11/4/2026, 9:38:11 PM",
+      "url": "https://AceRuleXero.github.io/RXG-Fight-Log-Reports/?report=20261104-201945-d8lk",
+      "publishedBy": "AceRuleXero",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20261103-203331-766y",
       "title": "Lumpia Humner",
